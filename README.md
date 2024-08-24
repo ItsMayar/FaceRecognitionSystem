@@ -1,4 +1,4 @@
-<h1>Attendance Monitoring System Using Face Recognition Based on Deep Learning</h1>
+<h1>Attendance Monitoring System Using Face Recognition <br/> Based on Deep Learning</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -9,8 +9,8 @@ The aim of this project is to create an attendance monitoring system which is a 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Register Student Details : <br/>
+<img src="https://i.imgur.com/2OMOpsH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
