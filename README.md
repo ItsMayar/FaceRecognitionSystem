@@ -9,32 +9,22 @@ The aim of this project is to create an attendance monitoring system which is a 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Register Student Details : <br/>
-<img src="https://i.imgur.com/2OMOpsH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Register Student Details: <br/>
+<img src="https://i.imgur.com/2OMOpsH.png" height="60%" width="60%" alt="Attendance"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Capture Facial Image:  <br/>
+<img src="https://i.imgur.com/dyckucU.png" height="60%" width="60%" alt="Attendance"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Attendance Taken: <br/>
+<img src="https://i.imgur.com/JVkJUvf.png" height="60%" width="60%" alt="Attendance"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Attendance Already Marked:  <br/>
+<img src="https://i.imgur.com/uzdRoQB.png" height="60%" width="60%" alt="Attendance"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
