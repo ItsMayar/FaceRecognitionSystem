@@ -1,6 +1,5 @@
 <h1>Attendance Monitoring System Using Face Recognition <br/> Based on Deep Learning</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 The aim of this project is to create an attendance monitoring system which is a system that tracks attendance and employs facial recognition as a biometric to identify people. The application will be android-based and will use facial recognition to register and automatically manage the attendance of students, attendees, or workers. In this project we will attempt to implement and make use of image processing and data mining. Numerous functions and administrative management settings will have to be made through web application.
