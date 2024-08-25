@@ -29,7 +29,7 @@ Creating conda virtual environment using Anaconda Prompt called “facerecogniti
 <br />
 <br />
 Activiate Virtual Environment: <br/>
-<img src="https://imgur.com/a/6dwyJzS" height="80%" width="80%" alt="Attendance"/>
+<img src="https://i.imgur.com/6wNonkg.png" height="80%" width="80%" alt="Attendance"/>
 <br />
 <br />
 Download the necessary libraries and package modules: <br/>
