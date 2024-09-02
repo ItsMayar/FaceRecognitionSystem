@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-The aim of this project is to create an attendance monitoring system which is a system that tracks attendance and employs facial recognition as a biometric to identify people. The application will be android-based and will use facial recognition to register and automatically manage the attendance of students, attendees, or workers. In this project we will attempt to implement and make use of image processing and data mining. Numerous functions and administrative management settings will have to be made through web application.
+The aim of this project is to create an Android-based attendance tracking system using Python, featuring facial recognition as a biometric identification method. Integrated image processing and data mining techniques, with administrative management functions accessible through a web application.
+
 <br />
 
 <h2>Languages and Utilities Used</h2>
