@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The aim of this project is to create an Android-based attendance tracking system using Python, featuring facial recognition as a biometric identification method. Integrated image processing and data mining techniques, with administrative management functions accessible through a web application.
+The aim of this project is to create an Android-based attendance tracking system using Python, featuring facial recognition as a biometric identification method. Additionally, utilising integrated image processing and data mining techniques, with administrative management functions accessible through a web application.
 
 <br />
 
